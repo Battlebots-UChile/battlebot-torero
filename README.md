@@ -1,6 +1,6 @@
 ﻿# *Torero - 2019* #
 Proyecto realizado por el grupo Los Enviados de Chayanne en el año 2019 para el curso EI-2001-43 “Taller de proyectos: Battlebots” de la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile.
-![Torero](/multimedia/Torero.jpg)
+![Torero](/multimedia/Torero.JPG)
 
 
 
