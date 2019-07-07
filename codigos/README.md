@@ -6,7 +6,7 @@ Funciona bajo conexión Bluethoot al Arduino.
 
 La app se ve así:
 
-![ss_APK](/codigos/APK/ss_APK.jpeg)
+![ss_APK](/multimedia/ss_APK.jpeg)
 
 
 La carpeta _arduino_ contiene el archivo .ino con el código que da movimiento al robot.
