@@ -49,8 +49,9 @@ El problema más preocupante fue relacionado con la parte electrónica dle bot (
 
 Otro Problema fueron las dimensiones del bot. Al comienzo, El enviado de Chayanne era un gran bloque cubierto por bloques de Lego. A raíz de esto el Torero perdía todo poder cuando se hablaba de velocidad, por lo que decidimos disminuir las dimensiones y peso del bot para que este pudiera ser más veloz que el Rasho Macuin (KUCHAU).
 
-### Diagrama funcional
-<Diagrama general de funcionamiento. Se sugiere un esquema de sistemas, completo.>
+# *Diagrama funcional* #
+
+![fritz_torero](/multimedia/fritz_torero.jpeg)
 
 # *Paso a Paso* #
 
@@ -82,7 +83,13 @@ Por ultimo se afirman correctamente los motores a sus agujeros respectivos, junt
 
 ## Paso 2: "Sistemas electricos"
 
+Conectar según lo indicado en el sig. diagrama:
+
+![fritz_torero](/multimedia/fritz_torero.jpeg)
+
 ## Paso 3: "Codigo"
+
+Usar el codigo que se encuentra en la carpeta _codigos_
 
 ## Licencia
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licencia Creative Commons Atribución-NoComercial 4.0 Internacional</a>.
