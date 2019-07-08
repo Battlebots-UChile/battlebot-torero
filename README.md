@@ -81,6 +81,8 @@ Para poder posicionar los motores de manera correcta se le hizo un agujero recta
 
 Por ultimo se afirman correctamente los motores a sus agujeros respectivos, junto con pegar la rueda central a la parte inferior y fortalecer las esquinas e intersecciones de las paredes mediante el uso de silicona caliente.
 
+Las armas, luego de ser impresas en 3D pueden ser pegadas usando silicona caliente.
+
 ## Paso 2: "Sistemas electricos"
 
 Conectar según lo indicado en el sig. diagrama:
