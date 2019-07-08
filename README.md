@@ -16,9 +16,9 @@ Proyecto realizado por el grupo Los Enviados de Chayanne en el año 2019 para el
 
 Nos basamos en 2 ideas principales, El Minotauro del show Battlebots y los robots de sumo japoneses (links en _Lluvia de ideas_). 
 
-Al percatarnos de que esto era similar a un toro decidimos nombrarlo bajo el nombre de la canción de Chayanne “Torero”
+Al percatarnos de que esto era similar a un toro decidimos nombrarlo bajo el nombre de la canción de Chayanne “Torero”.
 
-Físicamente el robot es una caja negra, 2 motores, un par de cuernos en la parte delantera y una placa con pinchos en la parte trasera
+Físicamente el robot es una caja negra, 2 motores, un par de cuernos en la parte delantera y una placa con pinchos en la parte trasera.
 
 
 # *Estrategia utilizada* #
@@ -100,6 +100,18 @@ Conectar según lo indicado en el sig. diagrama:
 ## Paso 3: "Codigo"
 
 Usar el codigo que se encuentra en la carpeta _codigos_
+
+# *Proyecciones a Futuro* #
+
+-  El torero, al salir triunfador de muchas batallas y por haber demostrado gran valentía frente a los bots opositores, Lord Chayanne decide subir de rango a nuestro luchador transformándose en "Sir Torero: Caballero del Boom Boom, enviado de Lord Chayanne". De esta manera, a nuestro noble caballero se le otorgará una armadura de metal, en donde el bot tendrá la facilidad de colocársela para el momento de la batalla y sacársela cuando para momentos de descanso y meditación, además de blindar, gracias a la armadura, sus cuernos morados, para transformarlos en armas letales con filo de espada.
+
+-  Como se dijo anteriormente, crear un sistema de interruptor más sofisticado.
+
+- Un soporte para la batería de 12V.
+
+- Un módulo de arduino que reprodusca la música del rey Chayanne.
+
+- Usar fotos coloridas de Chayanne, para que brille en todo su esplendor la gran hermosura que posee.
 
 ## Licencia
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licencia Creative Commons Atribución-NoComercial 4.0 Internacional</a>.
