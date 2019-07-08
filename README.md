@@ -93,9 +93,30 @@ Las armas, luego de ser impresas en 3D pueden ser pegadas usando silicona calien
 
 ## Paso 2: "Sistemas electricos"
 
+Para esta parte se especifican los materiales y herramientas:
+
+- 1 Batería 12V 1.3Ah (BAT1-121.3 L.A.POWER)
+- 1 Batería 9V
+- Pins (18 aprox.)
+- Modelo bluetooth Hc-06 Arduino
+- Adaptador batería 9V
+- Altavoz Bluetooth (Altavoz Blueooth Mini DC 5V 500mA estéreo USB Wirless TECMASTER)
+- Soldadura de estaño
+- Soldadura
+- Huincha Aisladora
+
+
 Conectar según lo indicado en el sig. diagrama:
 
 ![fritz_torero](/diagrama/fritz_torero.jpeg)
+
+Recomendación: use pin negro para tierra, rojo para el voltaje y colores similares para cada motor DC. 
+
+Luego, use soldadura de estaño para fijar las aletas de metal que posee los motores DC a los pins correspondientes al motor, colocarlos en los orificios correspondientes y fijar con silicona.
+
+El siguiente paso es distribuir los elementos mencionados: Coloque la batería de 12V de manera tal que las aletas de metal que esta posee apunte a la pared trasera del bot. Colocar a presión el parlante con el interruptor y el regulador de volumen en dirección a las ruedas. Colocar el puente H al lado de las aletas de metal de la batería de 12V. Colocar la placa de arduino junto con el bluetooth HC-06 a un costado de la batería. Posterior a eso, conectar la batería 9V al arduino gracias al adaptador.
+
+Finalmente, agregar las fotos de Chayanne adecuadas en la tapa del bot.
 
 ## Paso 3: "Codigo"
 
