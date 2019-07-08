@@ -51,7 +51,15 @@ Otro Problema fueron las dimensiones del bot. Al comienzo, El enviado de Chayann
 
 # *Diagrama funcional* #
 
+- Electrico:
+
 ![fritz_torero](/diagrama/fritz_torero.jpeg)
+
+- Flujo (se especifica solo Arduino, para más revisar la carpeta _diagramas_):
+
+![Flujo1](/diagrama/Flujo1.jpeg)
+
+![Flujo2](/diagrama/Flujo2.jpeg)
 
 # *Paso a Paso* #
 
