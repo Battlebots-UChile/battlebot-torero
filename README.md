@@ -51,7 +51,7 @@ Otro Problema fueron las dimensiones del bot. Al comienzo, El enviado de Chayann
 
 # *Diagrama funcional* #
 
-![fritz_torero](/multimedia/fritz_torero.jpeg)
+![fritz_torero](/diagrama/fritz_torero.jpeg)
 
 # *Paso a Paso* #
 
@@ -85,7 +85,7 @@ Por ultimo se afirman correctamente los motores a sus agujeros respectivos, junt
 
 Conectar según lo indicado en el sig. diagrama:
 
-![fritz_torero](/multimedia/fritz_torero.jpeg)
+![fritz_torero](/diagrama/fritz_torero.jpeg)
 
 ## Paso 3: "Codigo"
 
