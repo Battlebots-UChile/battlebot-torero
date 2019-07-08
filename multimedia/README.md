@@ -1,8 +1,13 @@
-# Archivos multimedia de los battlebots
+﻿# Archivos multimedia del Torero
 
-Se deben subir:
-- Fotos de avance (en orden cronológico)
-- Foto del proyecto terminado
-- Vídeo de demostración/funcionamiento
+En esta carpeta se encuentran las imagenes que salen en otros README.
 
-Se sugiere subir todas las imágenes y vídeos a esta carpeta y linkearlos desde acá para otros archivos. 
+Imagen de la construcción del bot:
+
+![construccion_torero](/multimedia/construccion_torero.jpeg)
+
+Imagen de la arma delantera:
+
+![cachos](/multimedia/cachos.jpeg)
+
+En el archivo _'Video_torero'_ se puede ver el avance.
