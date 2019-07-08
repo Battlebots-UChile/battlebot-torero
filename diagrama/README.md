@@ -10,7 +10,7 @@ Para el diagrama de flujo distinguimos 2 elementos:
 
 ![Flujo1](/diagrama/Flujo1.jpeg)
 
-![Flujo2](/diagrama/Flujo2.jpeg)
+![FlujoBueno](/diagrama/FlujoBueno.jpeg)
 
 - Parlante:
 

@@ -59,7 +59,7 @@ Otro Problema fueron las dimensiones del bot. Al comienzo, El enviado de Chayann
 
 ![Flujo1](/diagrama/Flujo1.jpeg)
 
-![Flujo2](/diagrama/Flujo2.jpeg)
+![FlujoBueno](/diagrama/FlujoBueno.jpeg)
 
 # *Paso a Paso* #
 
