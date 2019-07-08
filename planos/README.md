@@ -1,6 +1,7 @@
-# Archivos de planos incluidos
+﻿# *Planos* #
 
-Subir al repositorio todos los modelos y planos utilizados para construir el battlebot:
+Se añade modelo 3D del cuerpo del bot hecho en el programa Fusion 360 en formato .stl junto a una imagen de el.
 
-- Modelo 3D
-- Planos de corte de cortadora láser (.pdf)
+![Cuerpo_torero](/multimedia/Cuerpo_torero.jpeg)
+
+Adicionalmente, los archivos para imprimir en 3D los cuernos se encuentran [aquí](https://www.thingiverse.com/thing:32887)
