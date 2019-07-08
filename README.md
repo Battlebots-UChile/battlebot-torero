@@ -1,5 +1,6 @@
 ﻿# *Torero - 2019* #
 Proyecto realizado por el grupo Los Enviados de Chayanne en el año 2019 para el curso EI-2001-43 “Taller de proyectos: Battlebots” de la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile.
+
 ![Torero](/multimedia/Torero.JPG)
 
 
@@ -51,7 +52,7 @@ Otro Problema fueron las dimensiones del bot. Al comienzo, El enviado de Chayann
 ### Diagrama funcional
 <Diagrama general de funcionamiento. Se sugiere un esquema de sistemas, completo.>
 
-### *Paso a Paso*
+# *Paso a Paso* #
 
 Materiales y herramientas:
 
